@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+  <html lang="en">
+
+    
+<head>
+<style>
+  h1 {
+    font-family: Raleway, "Open Sans", sans-serif;
+  }
+  p {
+    font-family: fantasy, cursive, serif;
+    font-size: 1.6em;
+  }
+</style>
+
+  
+<h1 class="springy-text">Hello Beautiful</h1>
+<style>
+.springy-text {
+  color: white;
+  animation-name: springy-text;
+  animation-duration: 1s;
+  animation-timing-function: ease;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+}
+@keyframes springy-text {
+  0%   {
+    letter-spacing: 1.2em;
+    color: white;
+  }
+  100%   {
+    letter-spacing: 0.1em;
+    color: white;
+  }
+</style>
+</head>
+
+    
+<body>  
+  <h3 style="font-size:150%;">Inroduction</h3>
+  <p style="font-size:110%;"> Welcome to a page meant to inspire and make you 
+  feel more confident than before! Nowadays it is hard to feel like you are 
+  <span style="border: 1px solid black">ENOUGH</span> 
+  , and sometimes we forget that to find our strength, we must 
+  look within. However, to even begin to start looking within, we sometimes have 
+  to be reminded. Therefore, I made this website to remind you how much you matter, 
+  how much you are loved for, and neverthless why <span style="border: 1px solid black">YOU WILL ALWAYS BE ENOUGH</span>. <3 
+  </p>
+
+  <h3 style="font-size:150%;">Quote</h3>
+  <p style="text-align:center;"><b>"JUST BECAUSE YOU COULD BE BETTER DOESN'T MEAN YOU'RE NOT GOOD ENOUGH." </b>
+  <br> <a href="https://holleygerth.com/">-Holley Gerth</a>
+  </p>
+
+ <h3 style="font-size:150%;">Picture</h3>
+  <img src="https://media.tenor.com/kiBXDpuJxToAAAAi/hand-heart-heart.gif"
+   width="640" height="480" alt="hands making heart"> 
+</body>
+
+<meta charset="utf-8">
+<title>Hello Beautiful</title>
+ 
+<style>
+body {
+font-family: Helvetica, Arial, sans-serif;
+background-color: #e6b4db; 
+color: #fbfcfa;
+margin: 40px;
+}
+
+div {
+font-size: 45px;
+font-weight: bold;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+h1 {
+font-size: 100px;
+letter-spacing: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.offset {
+margin-left: 180px;
+transform: rotate(-4deg);
+}
+
+h1 span {
+display: inline-block;
+transform: rotate(12deg);
+}
+</style>
+</head>
+
+<h3 style="font-size:150%;">Quote</h3>
+<body>
+
+<div>YOU</div>
+<div>ARE</div>
+
+
+
+<h1>
+<div>ENOUGH</div>
+<div>ENOUGH</div>
+<div>ENOUGH</div>
+</h1>
+
+</body>
+    
+<body> 
+<p style="color: #db7093;">Hello Beautiful.com</p> 
+</body>
+    
+</html>
