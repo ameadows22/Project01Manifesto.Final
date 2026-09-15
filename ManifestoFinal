@@ -40,9 +40,7 @@
 
 
 <body> 
-<h5>cick below before reading <3 </h5>
-
-<audio controls>music for website.mp3
+<audio controls style="width: 150px; height: 50px;">music for website.mp3
   <source src="music for website.ogg" type="audio/ogg">
   <source src="music for website.mp3" type="audio/mpeg">
 </audio>
