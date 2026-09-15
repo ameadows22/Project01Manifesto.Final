@@ -40,8 +40,7 @@
 
 
 <body> 
-<h5>cick here to feel pretty</h5>
-<p>button plays magical sounding music</p>
+<h5>cick below before reading <3 </h5>
 
 <audio controls>
   <source src="horse.ogg" type="audio/ogg">
